@@ -1,0 +1,16 @@
+module.exports = {
+    'vtcName':              "Example Company",
+	'vtcCode':              "EGC",
+	'vtcURL':               "www.example.com",
+    'minimumDistance':      1,
+    'maxDistance':          10000,
+    'maxExpensesATS':       5000,
+	'maxExpensesETS2':      5000,
+	'maxIncomeATS':         200000,
+    'maxIncomeETS2':        200000,
+    'autoAcceptJobs':       true,
+    'requireRegistration':  false,
+    'allowSpeeding'     :   true,
+    'allowLateDeliveries':  true,
+    'maxTrailerDamage':     0.1,
+}
